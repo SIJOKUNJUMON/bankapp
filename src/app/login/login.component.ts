@@ -45,6 +45,7 @@ export class LoginComponent implements OnInit {
       alert("user not exist or incorrect ac number")
     }
   }
+
   
   acnoChange(event:any){
     this.acno=event.target.value
