@@ -14,5 +14,32 @@
     1.2.3 event binding using template rendering variable  #variable_name
 
   2.two way binding
-   2.1   
-      
+   2.1 ngModel  -  FormsModule
+
+
+   Redirection  in  TS
+   ---------------
+
+   method navigateByUrl---Router class method   
+
+   Dependency Injection-data sharing between two dependent classes
+
+   Angular Services
+   ---------------
+   to store redendent database
+
+   ng g s service_name
+  validating inputs
+ -Angular Form Validation
+    1.template driven Form  //
+    2.Model driven form -ts //easy method for validation
+      2.1-Reactive form
+         -form group
+         -array
+         -controller
+
+ npm i     --to install node package module while cloning angular project
+
+
+
+   
